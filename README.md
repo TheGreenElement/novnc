@@ -9,7 +9,7 @@
 5. When the ports appear, click on the globe icon by the bottom 6080 port.
 6. The password is 
 ```
-vscode
+nunya
 ```
 7. Enjoy
 
